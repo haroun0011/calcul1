@@ -856,5 +856,14 @@ html, body {
     background: #f9fafb;
     border-top: 1px solid #e5e7eb;
     }
+
+    .author-top {
+    text-align: center;
+    font-size: 0.85rem;
+    font-weight: 500;
+    opacity: 0.9;
+    margin-top: 6px;
+    }
 }
+
 
